@@ -15,6 +15,17 @@ As I pursue my Business Analytics degree, I’m learning how to think critically
 - **Problem-Solving and Simplifying Complex Information**  
 - **Collaborative Writing** (working with teams to create documentation)
 
+## Featured Projects  
+As I build my portfolio and continue to deepen my expertise in technical writing, I’m excited to share a few of my early projects. These samples showcase my growing skills, and I look forward to adding more as I gain more experience.
+
+**How to Get Started with Microsoft Excel**  
+   A beginner’s guide to the basic functions of Microsoft Excel, including data entry, formulas, and formatting.  
+   [Link to document](./MicrosoftExcel.md)
+
+**How to Install and Set Up Software on Windows**  
+   A detailed guide for installing software on a Windows PC, including troubleshooting tips and setup instructions.  
+   [Link to document](./InstallWindows.md)
+
 ## My Education
 I am currently completing my **Business Analytics** degree at the **University of Tennessee, Knoxville**, where I am gaining skills in data analysis, statistical methods, and communication, which have greatly informed my approach to technical writing. I have one semester left!
 
