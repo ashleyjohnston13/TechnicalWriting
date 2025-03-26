@@ -26,4 +26,4 @@ As I build my portfolio and continue to deepen my expertise in technical writing
 I am currently completing my **Business Analytics** degree at the **University of Tennessee, Knoxville**, where I am gaining skills in data analysis, statistical methods, and communication, which have greatly informed my approach to technical writing. I have one semester left!
 
 ## Contact
-You can reach out to me via **LinkedIn** or **email** for collaboration opportunities or to learn more about my work.
+Please, feel free to connect with me via **LinkedIn** or email!
