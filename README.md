@@ -20,7 +20,7 @@ As I build my portfolio and continue to deepen my expertise in technical writing
 
 **How to Get Started with Microsoft Excel**  
    A beginner’s guide to the basic functions of Microsoft Excel, including data entry, formulas, and formatting.  
-   [Link to document](./MicrosoftExcel.md)
+   [Link to document](./MicrosoftExcel)
 
 **How to Install and Set Up Software on Windows**  
    A detailed guide for installing software on a Windows PC, including troubleshooting tips and setup instructions.  
