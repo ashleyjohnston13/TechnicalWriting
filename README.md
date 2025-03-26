@@ -20,11 +20,11 @@ As I build my portfolio and continue to deepen my expertise in technical writing
 
 **How to Get Started with Microsoft Excel**  
    A beginner’s guide to the basic functions of Microsoft Excel, including data entry, formulas, and formatting.  
-   [Link to document](./MicrosoftExcel)
+   [Link to document](./MicrosoftExcel.md)
 
 **How to Install and Set Up Software on Windows**  
    A detailed guide for installing software on a Windows PC, including troubleshooting tips and setup instructions.  
-   [Link to document](./InstallWindows)
+   [Link to document](./InstallWindows.md)
 
 ## My Education
 I am currently completing my **Business Analytics** degree at the **University of Tennessee, Knoxville**, where I am gaining skills in data analysis, statistical methods, and communication, which have greatly informed my approach to technical writing. I have one semester left!
