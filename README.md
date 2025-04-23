@@ -1,37 +1,35 @@
 # Ashley Johnston – Technical Writing Portfolio
 
-Welcome! I’m Ashley Johnston, a Business Analytics student at the University of Tennessee, Knoxville, with a passion for creating clear, user-focused technical content. My background in technical support, customer education, and data analysis has shaped the way I approach writing: always with clarity, purpose, and the end user in mind.
+Welcome! This GitHub portfolio features a collection of beginner-friendly technical writing samples created by Ashley Johnston. These documents are designed to demonstrate clarity, structure, and user-focused guidance across common software and system tasks.
 
-## About Me
+---
 
-I specialize in turning complex ideas into clear, accessible documentation. Whether it's a step-by-step guide, user manual, or knowledge base article, my goal is always the same — to make tools, software, and data easier to understand and use.
+## 📘 Featured Guides
 
-While completing my Business Analytics degree, I’ve developed strong skills in communication, critical thinking, and simplifying complex information. I also bring nearly four years of experience as a certified Apple Genius, where I’ve explained technical processes to thousands of users and trained peers on best practices. These experiences continue to inform my approach to writing.
+### ✅ [Getting Started with Microsoft Excel](./MicrosoftExcel.md)  
+A step-by-step guide for new users on how to open, format, and begin using Microsoft Excel.
 
-## Skills
+### ✅ [How to Install and Set Up Software on Windows](./InstallWindows.md)  
+Walks through how to download, install, and launch software safely on a Windows machine.
 
-- Technical Documentation  
-- User Guides and Knowledge Base Articles  
-- Step-by-Step Instructions  
-- Data Analysis and Communication  
-- Simplifying Technical Concepts  
-- Collaborative Writing and Team Communication  
+### ✅ [Beginner’s Guide to Setting Up Multi-Factor Authentication (MFA)](./MFASetupGuide.md)  
+Explains how to enable MFA using an authenticator app to improve account security.
 
-## Featured Projects
+### ✅ [How to Create and Share a Survey in Google Forms](./GoogleFormsSurveyGuide.md)  
+Covers building a simple form, customizing questions, and sharing your survey.
 
-Here are a few early writing samples that reflect my technical writing style and growing experience:
+---
 
-- [**Getting Started with Microsoft Excel**](./MicrosoftExcel.md)  
-- [**How to Install and Set Up Software on Windows**](./InstallWindows.md)
+## 👩‍💻 About the Author
 
-More documentation and writing samples coming soon.
+Ashley is a Business Analytics student at the University of Tennessee, Knoxville, and a certified Apple Genius with nearly four years of experience in technical support. She is passionate about simplifying complex tools and helping users feel confident with technology. Her background blends technical troubleshooting, team leadership, customer education, and marketing.
 
-## Education
+This portfolio reflects her growing interest and skill set in technical communication.
 
-**University of Tennessee, Knoxville**  
-Bachelor of Business Administration – Business Analytics  
-Expected Graduation: December 2025
+---
 
-## Contact
+## 📫 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ashleyjohnstontn) or email. I’m always happy to connect and collaborate.
+You can connect with Ashley on [LinkedIn](https://www.linkedin.com/in/ashleyjohnstontn) or reach out via email.
+
+Thanks for reading!
