@@ -6,7 +6,7 @@
 🚀 Founder of Knoxville Movement Collective ([learn more](https://knoxvillemovement.com))  
 💡 I love turning messy or unclear processes into clean, efficient systems that help people work smarter.  
 
-Thanks for being here — hope you have a great day.
+Thanks for being here — I hope you have a great day!
 
 ---
 
@@ -79,4 +79,4 @@ Technical writing and systems analysis combine the strengths I’ve developed ac
 
 This portfolio is designed to demonstrate that — through real examples, example scenarios, guides, and my overall approach to designing clear, dependable systems.
 
-Thanks again for taking the time to explore my work. I hope you enjoy your day.
+Thanks again for taking the time to explore my work! If you'd like to connect, you can reach me at **ashley@knoxvillemovement.com**.
