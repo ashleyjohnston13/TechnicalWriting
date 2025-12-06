@@ -1,40 +1,47 @@
-# Ashley Johnston – Technical Writing & Systems Analysis Portfolio
+# Ashley Johnston  
+### Technical Writer & Systems Analyst  
 
-Welcome! This portfolio highlights my work across technical writing, process design, and systems documentation. I enjoy creating structure where things feel unclear and designing workflows that make it easier for people to get things done. Whether it's troubleshooting a technical issue, organizing information, or building an operational process, I focus on clarity, efficiency, and simplicity.
+📍 Based in Knoxville, TN  
+🛠 Haslam College of Business Alumni – Business Analytics, University of Tennessee  
+🚀 Founder of Knoxville Movement Collective ([learn more](https://knoxvillemovement.com))  
+💡 I love turning messy or unclear processes into clean, efficient systems that help people work smarter.  
 
----
-
-## About This Portfolio
-
-This repository includes a mix of real and example-based work:
-
-- **Example-based technical case studies**  
-  Fictional scenarios created to demonstrate my troubleshooting, root cause analysis, and documentation style. These do not reflect any real company or proprietary system.
-
-- **Real KMC operational workflows**  
-  These case studies are based on actual systems I designed as the founder of Knoxville Movement Collective, a 350+ member outdoor community. They show how I build processes, reduce friction, and create consistency for teams.
-
-- **Technical guides**  
-  Step-by-step instructions written with clarity, structure, and user experience in mind.
-
-- **About documents**  
-  These explain my background, problem-solving approach, documentation philosophy, and the systems mindset I bring to technical work.
+Thanks for being here — hope you have a great day.
 
 ---
 
-## 🔎 Case Studies
+# Technical Portfolio Overview
 
-### Technical (Example Scenarios)
+This portfolio brings together my work across **technical writing, systems documentation, troubleshooting, and workflow design**. I enjoy creating structure where things feel unclear and building processes that make information easier to understand and use.
+
+Inside this repository, you'll find:
+
+- **Example technical case studies** developed to demonstrate structured problem solving, root cause analysis, and clear documentation  
+- **Real operational workflows from KMC**, a community organization I founded and designed systems for  
+- **Guides and instructional documentation** written for clarity, usability, and simplicity  
+- **About documents** that capture my approach, philosophy, and background  
+
+---
+
+# 📂 Case Studies
+
+## Technical (Example Scenarios)
+These are fictionalized scenarios created to showcase my analytical approach and my ability to document technical investigations clearly.
+
 - [CRM–Analytics Sync Incident – Root Cause Analysis](case-studies/CRM-Analytics-Sync-Incident-Case-Study.md)
 
-### Operational (Real KMC Workflows)
+## Operational (Real KMC Workflows)
+These case studies represent real systems I designed as the founder of Knoxville Movement Collective.
+
 - [KMC Coach Onboarding Workflow](case-studies/KMC-Coach-Onboarding-Workflow-Case-Study.md)  
 - [KMC Event Scheduling Workflow](case-studies/KMC-Event-Scheduling-Workflow-Case-Study.md)  
 - [KMC Safety Reporting & Escalation Workflow](case-studies/KMC-Safety-Reporting-Workflow-Case-Study.md)
 
 ---
 
-## 📝 Guides
+# 📝 Guides
+
+Clear, user-centered documentation designed to help people complete tasks, understand processes, and troubleshoot issues.
 
 - [API & Data Sync Troubleshooting Guide](guides/API-Sync-Troubleshooting-Guide.md)  
 - [How to Write a Bug Report](guides/How-to-Write-a-Bug-Report.md)  
@@ -46,7 +53,9 @@ This repository includes a mix of real and example-based work:
 
 ---
 
-## 📚 About My Work
+# 📚 About My Work
+
+These documents provide insight into how I think, how I solve problems, and how I design systems that support teams and users.
 
 - [Career Summary / Who I Am](about/Career-Summary.md)  
 - [My Problem-Solving Approach](about/My-Problem-Solving-Approach.md)  
@@ -56,16 +65,18 @@ This repository includes a mix of real and example-based work:
 
 ---
 
-## Why I Built This Portfolio
+# Why I Built This Portfolio
 
-I’m drawn to roles where I can organize complexity, create clarity, and build systems that help teams work more effectively. Technical analysis and documentation combine my strengths in:
+I’m drawn to roles where I can:
 
-- clear communication  
-- structured problem solving  
-- operational efficiency  
-- user support  
-- systems thinking  
+- organize complexity  
+- create clarity in documentation  
+- solve problems through structure and analysis  
+- build workflows and systems that reduce friction for teams  
+- support users with patience and clear communication  
 
-This portfolio reflects how I approach that work.
+Technical writing and systems analysis combine the strengths I’ve developed across Apple, UTK, and Knoxville Movement Collective.
 
-Thanks for taking the time to look through my projects — I hope you have a great day!
+This portfolio is designed to demonstrate that — through real examples, example scenarios, guides, and my overall approach to designing clear, dependable systems.
+
+Thanks again for taking the time to explore my work. I hope you enjoy your day.
